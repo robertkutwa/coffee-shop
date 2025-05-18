@@ -3,19 +3,19 @@
 <h2>Project Structure</h2>
 <div class="file-structure">
 coffee-shop-challenge/
-├── coffee_shop/               # Package directory
-│   ├── __init__.py            # Package initialization
-│   ├── coffee.py              # Coffee model
-│   ├── customer.py            # Customer model
-│   ├── order.py               # Order model
-├── tests/                     # Test suite
-│   ├── __init__.py
-│   ├── coffee_test.py
-│   ├── customer_test.py
-│   └── order_test.py
-├── setup.py                   # Package configuration
-├── Pipfile                    # Dependencies
-└── README.md                  # This file
+ coffee_shop/               
+-__init__.py           
+ -coffee.py            
+-customer.py            
+-order.py              
+tests/                  
+__init__.py
+coffee_test.py
+customer_test.py
+order_test.py
+setup.py                  
+Pipfile                   
+README.md                 
     </div>
     
   <h2>Models</h2>

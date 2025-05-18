@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+coffee-shop = {file = ".", editable = true}
 
 [dev-packages]
 

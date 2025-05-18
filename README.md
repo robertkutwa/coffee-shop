@@ -2,21 +2,27 @@
 <p>A Python implementation of a coffee shop domain model with Customer, Coffee, and Order classes demonstrating object-oriented programming principles and many-to-many relationships.</p>
 <h2>Project Structure</h2>
 <div class="file-structure">
-coffee-shop-challenge/
- coffee_shop/               
--__init__.py           
- -coffee.py            
--customer.py            
--order.py              
-tests/                  
-__init__.py
-coffee_test.py
-customer_test.py
-order_test.py
-setup.py                  
-Pipfile                   
-README.md                 
-    </div>
+<ul>
+  <li>coffee-shop-challenge/</li>
+  <li>coffee_shop/  # Package directory</li>
+    <ul>
+      <li>\_\_init\_\_.py  # Package initialization</li>
+      <li>coffee.py  # Coffee model</li>
+      <li>customer.py  # Customer model</li>
+      <li>order.py  # Order model</li>
+    </ul>
+  <li>tests/  # Test suite</li>
+    <ul>
+      <li>\_\_init\_\_.py</li>
+      <li>coffee_test.py</li>
+      <li>customer_test.py</li>
+      <li>order_test.py</li>
+    </ul>
+  <li>setup.py  # Package configuration</li>
+  <li>Pipfile  # Dependencies</li>
+  <li>README.md  # This file</li>
+</ul>
+</div>
     
   <h2>Models</h2>
     

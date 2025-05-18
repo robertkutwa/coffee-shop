@@ -4,14 +4,14 @@
 <div class="file-structure">
 <ul>
   <li>coffee-shop-challenge/</li>
-  <li>coffee_shop/  # Package directory</li>
+  <li>coffee_shop/ </li>
     <ul>
       <li>__init__.py </li>
       <li>coffee.py </li>
       <li>customer.py </li>
       <li>order.py </li>
     </ul>
-  <li>tests/  # Test suite</li>
+  <li>tests/</li>
     <ul>
       <li>__init__.py</li>
       <li>coffee_test.py</li>

@@ -6,21 +6,21 @@
   <li>coffee-shop-challenge/</li>
   <li>coffee_shop/  # Package directory</li>
     <ul>
-      <li>\_\_init\_\_.py  # Package initialization</li>
-      <li>coffee.py  # Coffee model</li>
-      <li>customer.py  # Customer model</li>
-      <li>order.py  # Order model</li>
+      <li>__init__.py </li>
+      <li>coffee.py </li>
+      <li>customer.py </li>
+      <li>order.py </li>
     </ul>
   <li>tests/  # Test suite</li>
     <ul>
-      <li>\_\_init\_\_.py</li>
+      <li>__init__.py</li>
       <li>coffee_test.py</li>
       <li>customer_test.py</li>
       <li>order_test.py</li>
     </ul>
-  <li>setup.py  # Package configuration</li>
-  <li>Pipfile  # Dependencies</li>
-  <li>README.md  # This file</li>
+  <li>setup.py  </li>
+  <li>Pipfile </li>
+  <li>README.md </li>
 </ul>
 </div>
     

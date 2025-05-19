@@ -1,4 +1,3 @@
-# tests/order_test.py
 import pytest
 from order import Order
 from customer import Customer
